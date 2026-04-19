@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00f2ff&center=true&vCenter=true&width=500&lines=WEBAKARA+MANAGEMENT;KARAOKE+3-TIER+APP;MODERN+DASHBOARD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00f2ff&center=true&vCenter=true&width=500&lines=sWEBAKARA+MANAGEMENT;sKARAOKE+3-TIER+APP;MODERN+DASHBOARD)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge" alt="Version" />
 <img src="https://img.shields.io/badge/license-ISC-green?style=for-the-badge" alt="License" />
