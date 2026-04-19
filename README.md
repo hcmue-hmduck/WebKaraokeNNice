@@ -20,7 +20,7 @@
 
 ---
 
-## 🏗️ Kiến Trúc Hệ Thống (3-Tier Architecture)
+## Kiến Trúc Hệ Thống (3-Tier Architecture)
 
 Dự án được xây dựng theo chuẩn mực thiết kế tách biệt các lớp trách nhiệm, giúp bảo trì và mở rộng dễ dàng:
 
@@ -46,24 +46,24 @@ WebKara/
 
 ---
 
-## 💎 Tính Năng Chủ Chốt
+## Tính Năng Chủ Chốt
 
-### 🎤 Quản Lý Phòng Hát Thông Minh
+### Quản Lý Phòng Hát Thông Minh
 - **Real-time Status**: Theo dõi trạng thái phòng (Trống, Đang hát, Đã đặt, Bảo trì) trực quan.
 - **Pricing Engine**: Tự động tính tiền giờ theo bảng giá linh hoạt (Ngày/Đêm, Thường/Vip).
 - **Equipment Tracking**: Quản lý chi tiết thiết bị (Loa, Mic, Tivi) lắp đặt trong từng phòng.
 
-### 🍱 Quản Lý Thực Đơn & Kho Hàng
+### Quản Lý Thực Đơn & Kho Hàng
 - **Menu Đa Dạng**: Quản lý mặt hàng theo danh mục (Đồ uống, Thức ăn, Snacks).
 - **Auto-Inventory**: Tự động trừ số lượng tồn kho ngay khi xuất hóa đơn dịch vụ.
 - **Cảnh báo tồn kho**: Thông báo các mặt hàng sắp hết để nhập hàng kịp thời.
 
-### 🧾 Quy Trình Đặt Phòng & Thanh Toán
+### Quy Trình Đặt Phòng & Thanh Toán
 - **Booking Hub**: Ghi nhận đặt trước, quản lý thông tin khách hàng thân thiết.
 - **Invoice Generation**: Xuất hóa đơn chi tiết bao gồm Tiền giờ + Dịch vụ + Thuế phí.
 - **Optimistic Payment**: Quy trình thanh toán nhanh chóng, hỗ trợ chỉnh sửa trước khi tất toán.
 
-### 🔐 Bảo Mật & Phân Quyền
+### Bảo Mật & Phân Quyền
 - **JWT & Cookie**: Xác thực an toàn, duy trì phiên làm việc ổn định.
 - **Role-based Access Control (RBAC)**: Phân quyền chặt chẽ giữa Chủ cửa hàng (Manager) và Nhân viên (Staff).
 
@@ -84,13 +84,13 @@ WebKara/
 
 ---
 
-## 🚀 Hướng Dẫn Cài Đặt
+## Hướng Dẫn Cài Đặt
 
 ### Yêu cầu hệ thống
 - **Node.js**: Phiên bản 18 trở lên.
 - **MongoDB**: Đã cài đặt MongoDB Local hoặc URI MongoDB Atlas.
 
-### 🛠️ Các bước triển khai
+### Các bước triển khai
 
 1. **Cài đặt dependencies**:
    ```bash
